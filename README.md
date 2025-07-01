@@ -91,5 +91,3 @@ Each sheet contains **GHG emission factors** for different economic activities i
 | Important Features | `Sector Type`, `Emission Type`, `Year`, `Commodity Code` |
 
 ---
-
-## 📂 Folder Structure (Optional - add if relevant)
